@@ -1,7 +1,7 @@
 # Factors
 
-:::{.callout-note}
-This is a work in progress!
+:::{.callout-warning}
+🚧 This is a work in progress. 🚧
 
 At the current stage, these are just examples of what factors might look like.
 :::

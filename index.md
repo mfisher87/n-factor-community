@@ -3,7 +3,10 @@ title: "The _N_-Factor Community"
 ---
 
 :::{.callout-warning}
-🚧 This is a work in progress. Nothing here is solid. 🚧
+🚧 This is a work in progress. 🚧
+
+I'd love to hear your ideas! Please open an issue, pull request, or start a discussion
+on GitHub.
 :::
 
 This is an early-stage idea based on the [Twelve-Factor App](https://12factor.net/),
